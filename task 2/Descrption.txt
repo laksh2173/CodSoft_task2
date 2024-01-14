@@ -1,0 +1,1 @@
+Tic-Tac-Toe game using Minimax Algorithm. The game between the User and AI.
